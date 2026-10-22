@@ -1,0 +1,10 @@
+# logs gerados em tempo de execucao
+*.log
+steam-downgrade.*.log
+
+# backups do cliente Steam (criados em ~, nunca versionados)
+steam-client-backup-*/
+
+# temporarios
+*.tmp
+.DS_Store
